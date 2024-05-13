@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
-<h2 align="center">A writer, Font-End Developer</h2>
+
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Ethan</h1>
+  <h2 align="center">A writer, Font-End Developer</h2>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jcsamoyed&label=Profile%20views&color=b09adb&style=flat" alt="Profile views" />
 <!--   <img src="https://img.shields.io/badge/Built with-love-FFBFBF.svg" alt="Built with love" />
