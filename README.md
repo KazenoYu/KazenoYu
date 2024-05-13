@@ -5,7 +5,7 @@
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jcsamoyed&label=Profile%20views&color=b09adb&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Built with-love-FFBFBF.svg" alt="Built with cute" />
+  <img src="https://img.shields.io/badge/Built with-love-FFBFBF.svg" alt="Built with love" />
   <img src="https://img.shields.io/badge/Made by-markdown-BED7DC.svg" alt="Made by markdown" />
 </p>
 
