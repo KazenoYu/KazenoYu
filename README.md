@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Ethan 👋
+## or Call me Yu who's my pen name
 
 ### 📊 &nbsp;Github Stats
 
