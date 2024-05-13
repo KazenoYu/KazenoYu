@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Ethan</h1>
-  <h2 align="center">A writer, Font-End Developer</h2>
+  <p>A writer, Font-End Developer</p>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jcsamoyed&label=Profile%20views&color=b09adb&style=flat" alt="Profile views" />
